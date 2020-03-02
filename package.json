@@ -20,5 +20,8 @@
     "nodemailer-smtp-pool": "^2.8.3",
     "nodemailer-smtp-transport": "^2.7.4",
     "path": "^0.12.7"
+  },
+  "engine":{
+    "node":"12.15.0"
   }
 }
